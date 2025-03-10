@@ -12,7 +12,7 @@
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to Full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [JWipe (Disk Wiping Utility)](https://github.com/matheussantana159/JWipe_Disk_Sanitation)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
