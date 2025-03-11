@@ -4,7 +4,7 @@
 <h2>👨‍💻 Physical, Software, and Cybersecurity Development Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Creating a Home Lab environment](https://github.com/matheussantana159)
+  - [Creating a Home Lab environment](https://github.com/matheussantana159/Home-Lab)
   - [Installing Wazuh SIEM to monitor VMs within Home Lab](https://github.com/matheussantana159)
 
 - <b>Active Directory Home Lab</b>
