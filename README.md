@@ -7,9 +7,6 @@
   - [Creating a Home Lab environment](https://github.com/matheussantana159/Home-Lab)
   - [Installing Wazuh SIEM to monitor VMs within Home Lab](https://github.com/matheussantana159)
 
-- <b>Active Directory Home Lab</b>
-  - [Practicing DS & Algos in Python](https://github.com/matheussantana159)
-
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to Full GeoData Conversion](https://github.com/matheussantana159)
   - [JWipe (Disk Wiping Utility)](https://github.com/matheussantana159)
