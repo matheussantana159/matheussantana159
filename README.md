@@ -16,6 +16,10 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/matheussantana159)
   - [Keylogger with Email Capability](https://github.com/matheussantana159)
 
+- <b>Vulnerability and Penetrating Testing</b>
+  - [OpenVas/Greenbone Scanning](https://github.com/matheussantana159)
+  - [OpenVas/Greenbone Credential Scanning](https://github.com/matheussantana159)
+
 - <b>Python</b>
   - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/matheussantana159)
 
