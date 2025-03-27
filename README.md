@@ -6,6 +6,10 @@
 - <b>Home Lab</b>
   - [Creating a Home Lab environment](https://github.com/matheussantana159/Home-Lab)
   - [Installing Wazuh SIEM to monitor VMs within Home Lab](https://github.com/matheussantana159/Wazuh-and-its-Integration)
+ 
+- <b>Vulnerability and Penetrating Testing</b>
+  - [OpenVas/Greenbone Scanning](https://github.com/matheussantana159)
+  - [OpenVas/Greenbone Credential Scanning](https://github.com/matheussantana159)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to Full GeoData Conversion](https://github.com/matheussantana159)
@@ -15,10 +19,6 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/matheussantana159)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/matheussantana159)
   - [Keylogger with Email Capability](https://github.com/matheussantana159)
-
-- <b>Vulnerability and Penetrating Testing</b>
-  - [OpenVas/Greenbone Scanning](https://github.com/matheussantana159)
-  - [OpenVas/Greenbone Credential Scanning](https://github.com/matheussantana159)
 
 - <b>Python</b>
   - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/matheussantana159)
