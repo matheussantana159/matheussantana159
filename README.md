@@ -8,8 +8,7 @@
   - [Installing Wazuh SIEM to monitor VMs within Home Lab](https://github.com/matheussantana159/Wazuh-and-its-Integration)
  
 - <b>Vulnerability and Penetrating Testing</b>
-  - [OpenVas/Greenbone Scanning](https://github.com/matheussantana159)
-  - [OpenVas/Greenbone Credential Scanning](https://github.com/matheussantana159)
+  - [OpenVas/Greenbone Scanning](https://github.com/matheussantana159/OpenVAS-Greenbone-Scan-with-Credentials/blob/main/README.md)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to Full GeoData Conversion](https://github.com/matheussantana159)
