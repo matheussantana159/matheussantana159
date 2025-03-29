@@ -21,6 +21,7 @@
 
 - <b>Python</b>
   - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/matheussantana159)
+  - [Magic the Gathering](https://github.com/matheussantana159)
 
 <h2>📄 Certifications:</h2>
 
