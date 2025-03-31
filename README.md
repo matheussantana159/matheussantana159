@@ -11,7 +11,6 @@
   - [OpenVas/Greenbone Scanning](https://github.com/matheussantana159/OpenVAS-Greenbone-Scan-with-Credentials/blob/main/README.md)
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to Full GeoData Conversion](https://github.com/matheussantana159)
   - [JWipe (Disk Wiping Utility)](https://github.com/matheussantana159/JWipe_Disk_Sanitation)
 
 - <b>C# (.NET Desktop Applications)</b>
