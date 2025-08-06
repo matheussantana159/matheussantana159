@@ -6,7 +6,7 @@
 - <b>Projects</b>
   - [Creating a Home Lab environment](https://github.com/matheussantana159/Home-Lab)
   - [Installing Wazuh SIEM to monitor VMs within Home Lab](https://github.com/matheussantana159/Wazuh-and-its-Integration)
-  - [Creating Forensic USB](https://github.com/matheussantana159/)
+  - [Creating Forensic USB](https://github.com/matheussantana159/Creating-Forensic-USB)
  
 - <b>Cybersecurity</b>
   - [OpenVas/Greenbone Scanning](https://github.com/matheussantana159/OpenVAS-Greenbone-Scan-with-Credentials/blob/main/README.md)
